@@ -1,0 +1,164 @@
+
+body{
+    /* background-color: #f8e8f2; */
+    width: 370px;
+    height: 600px;
+    /* color: rgb(196, 34, 174); */
+    /* font-weight: bold; */
+}
+.date{
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: black;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+}
+.time{
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: black;
+    display: inline-block;
+    position: absolute;
+    right: 30px;  
+}
+
+/* #name{
+
+} */
+
+.history{
+    text-align: center;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 900;
+    font-size: 0.85rem;
+    color: rgb(129, 128, 128);
+
+}
+#today{
+    display: inline-block;
+    margin-right: 20px; 
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-decoration: underline black;
+
+}
+#today:hover{
+    color: black;
+}
+#past{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-decoration: underline black;
+}
+#past:hover{
+    color: black;
+}
+
+#hisday{
+    background-color: #d9d9d9;
+    text-align: center;
+    color: black;
+    font-weight: 550;
+    margin-bottom: 5px;
+}
+
+
+#mylist{
+    /* background-color: gray; */
+    /* text-align: justify;
+    text-align-last: justify; */
+    /* text-align: right; */
+    /* list-style: none; */
+    line-height: 1;
+    margin-left: 0;
+    padding-left: 25px;
+    
+    
+}
+
+#listhead{
+    font-family: "Montserrat" sans-serif ;
+    list-style-type:none;
+    color: blue;
+    padding: 0 30px 0 55px;  
+    font-weight: 700;
+    text-align-last: justify;
+    margin: 0;
+
+}
+#listhead span{
+    position: absolute;
+    right : 105px;
+}
+
+#listhead:hover{
+    background-color: white;
+}
+ul{
+    margin-top: 0;
+    padding-top: 0;
+}
+ul li{
+    height: 20px;
+    padding-top: 0;
+}
+
+ul li:hover{
+    background-color:#ccffff;
+    /* height: 28px; */
+    /* color: red; */
+    /* font-weight: bold; */
+    
+}
+
+#total{
+    background-color: #d9d9d9;
+    color: Black;
+    text-align-last: justify;
+    font-size: 0.85rem;
+    font-weight: 500;
+    padding: 0 10px 0;
+}
+
+.intro{
+    text-align: center;
+    color: black;
+    font-size: 0.9rem;
+    font-weight: 350;
+
+}
+.love{
+    color: red;
+    font-size: 0.9rem;
+}
+
+.linkedin{
+    color: blue;
+    text-decoration: underline;
+}
+::-webkit-scrollbar {
+    width: 10px;
+    
+  }
+  
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(190, 186, 186); 
+    border-radius: 10px;
+    height: 30px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #3de0b7; 
+  }
+  
