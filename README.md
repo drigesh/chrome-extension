@@ -7,26 +7,25 @@ This is a chrome extension that will what domain the user is visiting and the ti
 ### Features and Guide
 - It displays a badge on the extension's icon which tells time spent on that particular web page.
 
-![badge](https://user-images.githubusercontent.com/49431756/110208720-dfdacd80-7eae-11eb-8bc8-5a77e5c365e3.png)
+![badge](https://user-images.githubusercontent.com/49431756/110208954-e74ea680-7eaf-11eb-9e11-5f056820b201.png)
 
 
 - User can see the current Date and Time by just clicking on the extension icon.
 
-![date-time](https://user-images.githubusercontent.com/49431756/110208729-e701db80-7eae-11eb-9814-28e357cad00e.png)
+![date-time](https://user-images.githubusercontent.com/49431756/110208957-e9b10080-7eaf-11eb-9446-ff30eaf338c7.png)
 
 
 - On clicking on the icon you can see your browsing history of the present-day with time spent on the respective domains.
- ![today](https://user-images.githubusercontent.com/49431756/110208739-f2550700-7eae-11eb-90c1-6e5057fe03ab.png)
+![today](https://user-images.githubusercontent.com/49431756/110208960-ee75b480-7eaf-11eb-9245-12eb55e37fe6.png)
 
 
 - On clicking on the icon and then on `Past 7 Days` text user can see his past 7 days browsing history and time spent.
-
-![past](https://user-images.githubusercontent.com/49431756/110208747-fa14ab80-7eae-11eb-9175-0f88d517da3a.png)
+![past](https://user-images.githubusercontent.com/49431756/110208962-f3d2ff00-7eaf-11eb-8b54-df9e0ef5fb2f.png)
 
 
 - It helps the user to analyze things like what % time he spent on each website, domains that took time less than 1% (which has grey dots), total browsing time, etc...
 
-![prop](https://user-images.githubusercontent.com/49431756/110208752-fda83280-7eae-11eb-885d-2753d5edc7a1.png)
+![prop](https://user-images.githubusercontent.com/49431756/110208966-f7ff1c80-7eaf-11eb-9208-e4706701e913.png)
 
 
 ***
