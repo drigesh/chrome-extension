@@ -1,5 +1,4 @@
 # Web Time Tracker (Chrome Extension)
-***
 ### Description
 This is a chrome extension that will what domain the user is visiting and the time user spent on respective pages. Users can find it helpful to improve the browsing habits.
  
