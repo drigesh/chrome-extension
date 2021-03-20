@@ -1,6 +1,8 @@
 # Web Time Tracker (Chrome Extension)
 ### Description
 This is a chrome extension that will what domain the user is visiting and the time user spent on respective pages. Users can find it helpful to improve the browsing habits.
+
+_This project is distributed and prepared under the guidance of Coding Club, IIT Guwahati._
  
 ***
 ### Features and Guide
@@ -34,3 +36,4 @@ This is a chrome extension that will what domain the user is visiting and the ti
 - Warn when a user visits restricted web-pages.
 - Warn or Close web page when set time limit (set by the user) is reached.
 - Can send a Desktop notification for some customized things.
+
